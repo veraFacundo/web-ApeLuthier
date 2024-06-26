@@ -281,7 +281,7 @@ body{
     align-items: center;
     height: 250px;
     background-color: #A27B5C;
-    background-image: linear-gradient(rgba(5, 7, 12, 0.5), rgba(5, 7, 12, 0.5)), url(wallp/workshop.jpg);
+    background-image: linear-gradient(rgba(5, 7, 12, 0.5), rgba(5, 7, 12, 0.5)), url(../images/workshop.jpg);
     background-position: 50% 60%;
     background-size: cover;
     background-attachment: fixed;  
