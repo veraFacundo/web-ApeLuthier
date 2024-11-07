@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Juego de cuerdas para guitarra acústica",
+    "description": "Cuerdas de acero inoxidable con excelente resonancia y durabilidad.",
+    "price": 3000,
+    "category": "Accesorios",
+    "stock": 50,
+    "url": "https://m.media-amazon.com/images/I/61uSw6+ThJL.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Puente de madera para guitarra clásica",
+    "description": "Puente de palo de rosa de alta calidad para mejorar el tono y la resonancia.",
+    "price": 7400,
+    "category": "Piezas de Repuesto",
+    "stock": 15,
+    "url": "https://http2.mlstatic.com/D_NQ_NP_923545-MLA74430606639_022024-O.webp"
+  },
+  {
+    "id": 3,
+    "name": "Barniz de laca para guitarra",
+    "description": "Barniz de alta resistencia para dar un acabado profesional a la madera.",
+    "price": 15000,
+    "category": "Herramientas y Materiales",
+    "stock": 30,
+    "url": "https://i0.wp.com/guitarra-acustica.com/wp-content/uploads/2021/03/Captura-de-pantalla-2021-03-21-a-las-12.27.56.png?ssl=1"
+  },
+  {
+    "id": 4,
+    "name": "Cejuela de hueso para guitarra",
+    "description": "Cejuela fabricada en hueso natural, ideal para mejorar la calidad del sonido.",
+    "price": 2000,
+    "category": "Piezas de Repuesto",
+    "stock": 40,
+    "url": "https://www.heavenimagenes.com/heavencommerce/36552d98-557c-43dd-ad26-2c9343813a85/images/v2/SAMBONG/26431_small.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Juego de clavijas para guitarra",
+    "description": "Clavijas de precisión, resistentes a la corrosión, para ajuste de cuerdas.",
+    "price": 8200,
+    "category": "Accesorios",
+    "stock": 20,
+    "url": "https://http2.mlstatic.com/D_NQ_NP_955547-MLA49634085649_042022-O.webp"
+  },
+  {
+    "id": 6,
+    "name": "Lija de grano fino para acabado",
+    "description": "Lija especial para el pulido final de la madera, asegura un acabado perfecto.",
+    "price": 600,
+    "category": "Herramientas y Materiales",
+    "stock": 100,
+    "url":"https://http2.mlstatic.com/D_NQ_NP_651278-MLA74129833996_012024-O.webp"
+  }
+]
